@@ -1,0 +1,35 @@
+# Core Python Libraries
+python==3.8.10
+pip>=23.1.2
+
+# Machine Learning and NLP Libraries
+transformers==4.43.2
+sentence-transformers==3.0.1
+torch>=1.10.0
+
+# LangChain Ecosystem
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-chroma==0.1.2
+langchain-text-splitters==0.2.2
+langchain-groq==0.1.6
+
+# Vector Database
+chromadb==0.5.5
+
+# Document Processing
+unstructured==0.15.0
+unstructured[pdf]==0.15.0
+PyPDF2>=3.0.0
+
+# Web Interface
+gradio>=3.50.0
+
+# Configuration Management
+pydantic-settings>=2.0.0
+
+# Optional: Logging and Debugging
+loguru>=0.7.0
+
+# Optional: Environment Management
+python-dotenv>=1.0.0
