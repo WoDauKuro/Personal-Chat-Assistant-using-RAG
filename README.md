@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-1. Place your PDF documents in the project directory
+1. Place your PDF documents in the project directory or use the PDF documents in the `data` directory
 2. Update `file_path` in the notebook with your document paths
 3. Run the Jupyter Notebook
 4. Access the Gradio web interface
